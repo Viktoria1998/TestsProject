@@ -1,5 +1,2 @@
 /.allure/
 /target/
-/.idea
-*.iml
-/src/main/java/MyClass.java

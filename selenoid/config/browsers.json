@@ -1,0 +1,30 @@
+{
+  "chrome": {
+    "default": "79.0",
+    "versions": {
+      "79.0": {
+        "image": "selenoid/vnc:chrome_79.0",
+        "port": "4444",
+        "path": "/",
+        "timeZone": "Europe/Moscow"
+      },
+      "76.0": {
+        "image": "selenoid/vnc:chrome_76.0",
+        "port": "4444",
+        "path": "/",
+        "timeZone": "Europe/Moscow"
+      }
+    }
+  },
+  "firefox": {
+    "default": "45.0",
+    "versions": {
+      "45.0": {
+        "image": "selenoid/vnc:firefox_45.0",
+        "tmpfs": {"/tmp": "size=512m"},
+        "path":"/wd/hub",
+        "port": "4444"
+      }
+    }
+  }
+}
