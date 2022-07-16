@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/e2e-tests.iml" filepath="$PROJECT_DIR$/e2e-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e2e-tests-education.iml" filepath="$PROJECT_DIR$/e2e-tests-education.iml" />
     </modules>
   </component>
 </project>
