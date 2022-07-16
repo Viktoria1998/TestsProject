@@ -9,5 +9,7 @@ public class Summ {
     @DisplayName("Успешная проверка поля: Этническая группа")
     public void test_creat1() {
 
+
+        
     }
 }
