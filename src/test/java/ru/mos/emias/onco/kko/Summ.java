@@ -7,9 +7,7 @@ public class Summ {
 
     @Test
     @DisplayName("Успешная проверка поля: Этническая группа")
-    public void test_creat() {
+    public void test_creat1() {
 
-
-        
     }
 }
