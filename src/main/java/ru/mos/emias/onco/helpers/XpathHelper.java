@@ -19,10 +19,7 @@ public class XpathHelper {
         return this;
     }
 
-    public XpathHelper getElementLuSvgIcon(){
-        xpath.append("//lu-svg-icon");
-        return this;
-    }
+
 
     public XpathHelper getElementScSvgIconByAttributeType(String attributeTypeName){
         xpath.append("//sc-svg-icon[@type='")
@@ -38,10 +35,7 @@ public class XpathHelper {
         return this;
     }
 
-    public XpathHelper getElementButton(){
-        xpath.append("//button");
-        return this;
-    }
+
 
     public XpathHelper getElementButtonOnName(String buttonName){
         xpath.append("//span[normalize-space(.)='")
@@ -50,12 +44,7 @@ public class XpathHelper {
         return this;
     }
 
-    public XpathHelper getElementScButton(String buttonName){
-        xpath.append("//span[normalize-space(.)='")
-                .append(buttonName)
-                .append("']//ancestor::sc-button");
-        return this;
-    }
+
 
     public XpathHelper getElementScButtonWithoutName(String attributeTypeName){
         getElementScSvgIconByAttributeType(attributeTypeName);
@@ -73,10 +62,6 @@ public class XpathHelper {
         return this;
     }
 
-    public XpathHelper getElementLuMaskPlaceholder(){
-        xpath.append("//lu-mask-placeholder");
-        return this;
-    }
 
     public XpathHelper getElementInput(){
         xpath.append("//input");
