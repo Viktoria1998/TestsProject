@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="f055c1b0-1a3f-4734-b9b9-85406ef8305c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/mos/emias/onco/kko/Summ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/mos/emias/onco/kko/Summ.java" afterDir="false" />
+    </list>
     <list default="true" id="f055c1b0-1a3f-4734-b9b9-85406ef8305c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,6 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/mos/emias/onco/kko/Summ.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             <state relative-caret-position="255">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
@@ -280,6 +285,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17933000" />
     <option name="totallyTimeSpent" value="19643000" />
   </component>
   <component name="ToolWindowManager">
@@ -382,6 +388,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/mos/emias/onco/oncologist/SearchPatientsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/mos/emias/onco/oncologist/SearchPatientsTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/mos/emias/onco/kko/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -398,6 +405,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/mos/emias/onco/kko/Summ.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         <state relative-caret-position="255">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
