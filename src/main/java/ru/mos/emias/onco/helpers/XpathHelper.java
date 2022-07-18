@@ -164,6 +164,12 @@ public class XpathHelper {
         return this;
     }
 
+
+    public XpathHelper getOverlayCalendarMonthWrappe2r(){
+        xpath.append("//lu-calendar//lu-calendar-months-wrapper");
+        return this;
+    }
+
     public XpathHelper getOverlayCalendarDaysForCurrentMonth(){
         xpath.append("//lu-calendar-months-wrapper//div[contains(@class,'month')]/div[contains(@class,'week')]/div[not(contains(@class,'another-month'))]");
         return this;
