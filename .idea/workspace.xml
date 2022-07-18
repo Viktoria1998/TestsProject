@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/mos/emias/onco/helpers/XpathHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
+            <state relative-caret-position="95">
+              <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -349,7 +349,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19326000" />
+    <option name="totallyTimeSpent" value="19332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
