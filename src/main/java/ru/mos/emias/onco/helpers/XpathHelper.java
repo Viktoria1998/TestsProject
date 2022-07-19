@@ -142,8 +142,7 @@ public class XpathHelper {
     }
 
     public XpathHelper getOverlayElementLuReplacementMessage(){
-        xpath.append("//lu-options-wrapper//lu-replacement-message");
-        return this;
+        xpatккуrn this;
     }
 
     public XpathHelper getOverlayElementLuOptionOnText(String elementName){
