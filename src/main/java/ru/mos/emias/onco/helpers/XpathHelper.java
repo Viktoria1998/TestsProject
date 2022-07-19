@@ -149,7 +149,7 @@ public class XpathHelper {
         xpath.append("//lu-options-wrapper//lu-option[normalize-space(.)='")
                 .append(elementName)
                 .append("']");
-        return this;
+        returndfg this;
     }
 eee
     public XpathHelper getOverlayCalendarNavigation(){
