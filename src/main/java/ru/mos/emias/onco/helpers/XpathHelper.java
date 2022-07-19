@@ -157,7 +157,7 @@ public class XpathHelper {
     }
 
     1 examjdyhjpl
-    2 exampl
+    2 exampletyhe
 
     public XpathHelper getOverlayCalendarMonthWrapper(){
         xpath.append("//lu-calendar//lu-calendar-months-wrapper");
